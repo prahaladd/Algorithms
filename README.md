@@ -1,2 +1,1 @@
-# jAlgorithms
-Algorithms - In Java!!
+# Algorithms - In Java!!
